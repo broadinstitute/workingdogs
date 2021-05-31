@@ -554,143 +554,98 @@
 "SoftTrachea",7,"Health",3,"Normal","un",2016,"Normal-Affected",405,410
 "SoftTrachea",7,"Health",3,"Normal","un",2017,"Normal-Affected",407,412
 "SoftTrachea",7,"Health",3,"Normal","un",2018,"Normal-Affected",307,310
-"success of live birth",8,"Success",1,"Released","un",1991,"Success",51,505
-"success of live birth",8,"Success",1,"Released","un",1992,"Success",59,520
-"success of live birth",8,"Success",1,"Released","un",1993,"Success",40,526
-"success of live birth",8,"Success",1,"Released","un",1994,"Success",67,483
-"success of live birth",8,"Success",1,"Released","un",1995,"Success",107,659
-"success of live birth",8,"Success",1,"Released","un",1996,"Success",81,549
-"success of live birth",8,"Success",1,"Released","un",1997,"Success",69,493
-"success of live birth",8,"Success",1,"Released","un",1998,"Success",105,574
-"success of live birth",8,"Success",1,"Released","un",1999,"Success",122,618
-"success of live birth",8,"Success",1,"Released","un",2000,"Success",169,510
-"success of live birth",8,"Success",1,"Released","un",2001,"Success",190,499
-"success of live birth",8,"Success",1,"Released","un",2002,"Success",199,519
-"success of live birth",8,"Success",1,"Released","un",2003,"Success",213,559
-"success of live birth",8,"Success",1,"Released","un",2004,"Success",242,630
-"success of live birth",8,"Success",1,"Released","un",2005,"Success",199,529
-"success of live birth",8,"Success",1,"Released","un",2006,"Success",201,563
-"success of live birth",8,"Success",1,"Released","un",2007,"Success",133,412
-"success of live birth",8,"Success",1,"Released","un",2008,"Success",157,406
-"success of live birth",8,"Success",1,"Released","un",2009,"Success",136,411
-"success of live birth",8,"Success",1,"Released","un",2010,"Success",100,381
-"success of live birth",8,"Success",1,"Released","un",2011,"Success",102,404
-"success of live birth",8,"Success",1,"Released","un",2012,"Success",137,454
-"success of live birth",8,"Success",1,"Released","un",2013,"Success",196,508
-"success of live birth",8,"Success",1,"Released","un",2014,"Success",159,483
-"success of live birth",8,"Success",1,"Released","un",2015,"Success",88,445
-"success of live birth",8,"Success",1,"Released","un",2016,"Success",102,439
-"success of live birth",8,"Success",1,"Released","un",2017,"Success",112,469
-"success of live birth",8,"Success",1,"Released","un",2018,"Success",68,375
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1991,"Success",249,505
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1992,"Success",295,520
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1993,"Success",314,526
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1994,"Success",246,483
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1995,"Success",308,659
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1996,"Success",289,549
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1997,"Success",255,493
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1998,"Success",290,574
-"success of live birth",8,"Success",2,"Released raised by GEB","un",1999,"Success",306,618
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2000,"Success",213,510
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2001,"Success",191,499
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2002,"Success",182,519
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2003,"Success",210,559
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2004,"Success",233,630
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2005,"Success",158,529
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2006,"Success",190,563
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2007,"Success",154,412
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2008,"Success",116,406
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2009,"Success",123,411
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2010,"Success",127,381
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2011,"Success",134,404
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2012,"Success",160,454
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2013,"Success",161,508
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2014,"Success",170,483
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2015,"Success",164,445
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2016,"Success",164,439
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2017,"Success",200,469
-"success of live birth",8,"Success",2,"Released raised by GEB","un",2018,"Success",156,375
-"success of live birth",8,"Success",3,"Used","aff",1991,"Success",205,505
-"success of live birth",8,"Success",3,"Used","aff",1992,"Success",166,520
-"success of live birth",8,"Success",3,"Used","aff",1993,"Success",172,526
-"success of live birth",8,"Success",3,"Used","aff",1994,"Success",170,483
-"success of live birth",8,"Success",3,"Used","aff",1995,"Success",244,659
-"success of live birth",8,"Success",3,"Used","aff",1996,"Success",179,549
-"success of live birth",8,"Success",3,"Used","aff",1997,"Success",169,493
-"success of live birth",8,"Success",3,"Used","aff",1998,"Success",179,574
-"success of live birth",8,"Success",3,"Used","aff",1999,"Success",190,618
-"success of live birth",8,"Success",3,"Used","aff",2000,"Success",128,510
-"success of live birth",8,"Success",3,"Used","aff",2001,"Success",118,499
-"success of live birth",8,"Success",3,"Used","aff",2002,"Success",138,519
-"success of live birth",8,"Success",3,"Used","aff",2003,"Success",136,559
-"success of live birth",8,"Success",3,"Used","aff",2004,"Success",155,630
-"success of live birth",8,"Success",3,"Used","aff",2005,"Success",172,529
-"success of live birth",8,"Success",3,"Used","aff",2006,"Success",172,563
-"success of live birth",8,"Success",3,"Used","aff",2007,"Success",125,412
-"success of live birth",8,"Success",3,"Used","aff",2008,"Success",133,406
-"success of live birth",8,"Success",3,"Used","aff",2009,"Success",152,411
-"success of live birth",8,"Success",3,"Used","aff",2010,"Success",154,381
-"success of live birth",8,"Success",3,"Used","aff",2011,"Success",168,404
-"success of live birth",8,"Success",3,"Used","aff",2012,"Success",157,454
-"success of live birth",8,"Success",3,"Used","aff",2013,"Success",151,508
-"success of live birth",8,"Success",3,"Used","aff",2014,"Success",154,483
-"success of live birth",8,"Success",3,"Used","aff",2015,"Success",193,445
-"success of live birth",8,"Success",3,"Used","aff",2016,"Success",173,439
-"success of live birth",8,"Success",3,"Used","aff",2017,"Success",157,469
-"success of live birth",8,"Success",3,"Used","aff",2018,"Success",151,375
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1991,"Success",249,454
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1992,"Success",295,461
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1993,"Success",314,486
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1994,"Success",246,416
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1995,"Success",308,552
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1996,"Success",289,468
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1997,"Success",255,424
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1998,"Success",290,469
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",1999,"Success",306,496
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2000,"Success",213,341
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2001,"Success",191,309
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2002,"Success",182,320
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2003,"Success",210,346
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2004,"Success",233,388
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2005,"Success",158,330
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2006,"Success",190,362
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2007,"Success",154,279
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2008,"Success",116,249
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2009,"Success",123,275
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2010,"Success",127,281
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2011,"Success",134,302
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2012,"Success",160,317
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2013,"Success",161,312
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2014,"Success",170,324
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2015,"Success",164,357
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2016,"Success",164,337
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2017,"Success",200,357
-"success of pups raised",8,"Success",2,"Released raised by GEB","un",2018,"Success",156,307
-"success of pups raised",8,"Success",3,"Used","aff",1991,"Success",205,454
-"success of pups raised",8,"Success",3,"Used","aff",1992,"Success",166,461
-"success of pups raised",8,"Success",3,"Used","aff",1993,"Success",172,486
-"success of pups raised",8,"Success",3,"Used","aff",1994,"Success",170,416
-"success of pups raised",8,"Success",3,"Used","aff",1995,"Success",244,552
-"success of pups raised",8,"Success",3,"Used","aff",1996,"Success",179,468
-"success of pups raised",8,"Success",3,"Used","aff",1997,"Success",169,424
-"success of pups raised",8,"Success",3,"Used","aff",1998,"Success",179,469
-"success of pups raised",8,"Success",3,"Used","aff",1999,"Success",190,496
-"success of pups raised",8,"Success",3,"Used","aff",2000,"Success",128,341
-"success of pups raised",8,"Success",3,"Used","aff",2001,"Success",118,309
-"success of pups raised",8,"Success",3,"Used","aff",2002,"Success",138,320
-"success of pups raised",8,"Success",3,"Used","aff",2003,"Success",136,346
-"success of pups raised",8,"Success",3,"Used","aff",2004,"Success",155,388
-"success of pups raised",8,"Success",3,"Used","aff",2005,"Success",172,330
-"success of pups raised",8,"Success",3,"Used","aff",2006,"Success",172,362
-"success of pups raised",8,"Success",3,"Used","aff",2007,"Success",125,279
-"success of pups raised",8,"Success",3,"Used","aff",2008,"Success",133,249
-"success of pups raised",8,"Success",3,"Used","aff",2009,"Success",152,275
-"success of pups raised",8,"Success",3,"Used","aff",2010,"Success",154,281
-"success of pups raised",8,"Success",3,"Used","aff",2011,"Success",168,302
-"success of pups raised",8,"Success",3,"Used","aff",2012,"Success",157,317
-"success of pups raised",8,"Success",3,"Used","aff",2013,"Success",151,312
-"success of pups raised",8,"Success",3,"Used","aff",2014,"Success",154,324
-"success of pups raised",8,"Success",3,"Used","aff",2015,"Success",193,357
-"success of pups raised",8,"Success",3,"Used","aff",2016,"Success",173,337
-"success of pups raised",8,"Success",3,"Used","aff",2017,"Success",157,357
-"success of pups raised",8,"Success",3,"Used","aff",2018,"Success",151,307
+"success of live birth",8,"Success",1,"Released","un",2000,"Success",541,1020
+"success of live birth",8,"Success",1,"Released","un",2001,"Success",548,988
+"success of live birth",8,"Success",1,"Released","un",2002,"Success",554,1030
+"success of live birth",8,"Success",1,"Released","un",2003,"Success",607,1110
+"success of live birth",8,"Success",1,"Released","un",2004,"Success",663,1230
+"success of live birth",8,"Success",1,"Released","un",2005,"Success",494,1026
+"success of live birth",8,"Success",1,"Released","un",2006,"Success",550,1134
+"success of live birth",8,"Success",1,"Released","un",2007,"Success",384,826
+"success of live birth",8,"Success",1,"Released","un",2008,"Success",375,816
+"success of live birth",8,"Success",1,"Released","un",2009,"Success",343,812
+"success of live birth",8,"Success",1,"Released","un",2010,"Success",292,760
+"success of live birth",8,"Success",1,"Released","un",2011,"Success",275,802
+"success of live birth",8,"Success",1,"Released","un",2012,"Success",333,872
+"success of live birth",8,"Success",1,"Released","un",2013,"Success",432,948
+"success of live birth",8,"Success",1,"Released","un",2014,"Success",445,956
+"success of live birth",8,"Success",1,"Released","un",2015,"Success",368,930
+"success of live birth",8,"Success",1,"Released","un",2016,"Success",425,944
+"success of live birth",8,"Success",1,"Released","un",2017,"Success",523,1043
+"success of live birth",8,"Success",1,"Released","un",2018,"Success",367,788
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2000,"Success",213,1020
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2001,"Success",191,988
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2002,"Success",182,1030
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2003,"Success",210,1110
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2004,"Success",233,1230
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2005,"Success",158,1026
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2006,"Success",190,1134
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2007,"Success",154,826
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2008,"Success",116,816
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2009,"Success",123,812
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2010,"Success",127,760
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2011,"Success",134,802
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2012,"Success",160,872
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2013,"Success",161,948
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2014,"Success",170,956
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2015,"Success",164,930
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2016,"Success",164,944
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2017,"Success",200,1043
+"success of live birth",8,"Success",2,"Released raised by GEB","un",2018,"Success",171,788
+"success of live birth",8,"Success",3,"Used","aff",2000,"Success",266,1020
+"success of live birth",8,"Success",3,"Used","aff",2001,"Success",249,988
+"success of live birth",8,"Success",3,"Used","aff",2002,"Success",294,1030
+"success of live birth",8,"Success",3,"Used","aff",2003,"Success",293,1110
+"success of live birth",8,"Success",3,"Used","aff",2004,"Success",334,1230
+"success of live birth",8,"Success",3,"Used","aff",2005,"Success",374,1026
+"success of live birth",8,"Success",3,"Used","aff",2006,"Success",394,1134
+"success of live birth",8,"Success",3,"Used","aff",2007,"Success",288,826
+"success of live birth",8,"Success",3,"Used","aff",2008,"Success",325,816
+"success of live birth",8,"Success",3,"Used","aff",2009,"Success",346,812
+"success of live birth",8,"Success",3,"Used","aff",2010,"Success",341,760
+"success of live birth",8,"Success",3,"Used","aff",2011,"Success",393,802
+"success of live birth",8,"Success",3,"Used","aff",2012,"Success",379,872
+"success of live birth",8,"Success",3,"Used","aff",2013,"Success",355,948
+"success of live birth",8,"Success",3,"Used","aff",2014,"Success",341,956
+"success of live birth",8,"Success",3,"Used","aff",2015,"Success",398,930
+"success of live birth",8,"Success",3,"Used","aff",2016,"Success",355,944
+"success of live birth",8,"Success",3,"Used","aff",2017,"Success",320,1043
+"success of live birth",8,"Success",3,"Used","aff",2018,"Success",250,788
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2000,"Success",150.998366013072,341
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2001,"Success",144.377586206897,309
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2002,"Success",145.553662691652,320
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2003,"Success",160.967542503864,346
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2004,"Success",171.701149425287,388
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2005,"Success",137.936507936508,330
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2006,"Success",155.489763779528,363
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2007,"Success",120,280
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2008,"Success",119.089958158996,253
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2009,"Success",111.918629550321,281
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2010,"Success",99.7977272727273,287
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2011,"Success",101.086956521739,310
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2012,"Success",108.997955010225,325
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2013,"Success",129.992592592593,322
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2014,"Success",123.516981132075,334
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2015,"Success",127.489208633094,358
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2016,"Success",123.924953095685,337
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2017,"Success",138.391080617496,357
+"success of pups raised",8,"Success",2,"Released raised by GEB","un",2018,"Success",103.013215859031,296
+"success of pups raised",8,"Success",3,"Used","aff",2000,"Success",190.001633986928,341
+"success of pups raised",8,"Success",3,"Used","aff",2001,"Success",164.622413793103,309
+"success of pups raised",8,"Success",3,"Used","aff",2002,"Success",174.446337308348,320
+"success of pups raised",8,"Success",3,"Used","aff",2003,"Success",185.032457496136,346
+"success of pups raised",8,"Success",3,"Used","aff",2004,"Success",216.298850574713,388
+"success of pups raised",8,"Success",3,"Used","aff",2005,"Success",192.063492063492,330
+"success of pups raised",8,"Success",3,"Used","aff",2006,"Success",207.510236220472,363
+"success of pups raised",8,"Success",3,"Used","aff",2007,"Success",160,280
+"success of pups raised",8,"Success",3,"Used","aff",2008,"Success",133.910041841004,253
+"success of pups raised",8,"Success",3,"Used","aff",2009,"Success",169.081370449679,281
+"success of pups raised",8,"Success",3,"Used","aff",2010,"Success",187.202272727273,287
+"success of pups raised",8,"Success",3,"Used","aff",2011,"Success",208.913043478261,310
+"success of pups raised",8,"Success",3,"Used","aff",2012,"Success",216.002044989775,325
+"success of pups raised",8,"Success",3,"Used","aff",2013,"Success",192.007407407407,322
+"success of pups raised",8,"Success",3,"Used","aff",2014,"Success",210.483018867925,334
+"success of pups raised",8,"Success",3,"Used","aff",2015,"Success",230.510791366906,358
+"success of pups raised",8,"Success",3,"Used","aff",2016,"Success",213.075046904315,337
+"success of pups raised",8,"Success",3,"Used","aff",2017,"Success",218.608919382504,357
+"success of pups raised",8,"Success",3,"Used","aff",2018,"Success",192.986784140969,296
